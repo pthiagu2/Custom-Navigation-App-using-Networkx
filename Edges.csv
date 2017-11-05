@@ -1,0 +1,44 @@
+From,To,distance,strname,direction,re_direction,"Remark(type ""1"" for one-way, ""0"" for not one-way, just this just for define direct graph later) "
+Wohlers Hall,sixgregory,22,S 6th Str,north,south,0
+sixgregory,College of Business,58,E Gregory Dr,west,east,0
+sixgregory,Harding Band Building,48,S 6th Str,north,south,0
+College of Business,George Huff Hall,153,E Gregory Dr,west,east,0
+George Huff Hall,forthgregory,57,E Gregory Dr,west,east,0
+forthgregory,fortharmory,142,S 4th Str,north,south,0
+fortharmory,Ice Arena,59,E Armory Ave,east,west,0
+fortharmory,Police Training Institution,110,S 4th Str,north,north,0
+Ice Arena,fiftharmory,68,E Armory Ave,east,west,0
+fiftharmory,Armory,22,S 5th Str,south,north,0
+fiftharmory,fifthchalmers,156,S 5th Str,north,south,0
+fiftharmory,sixtharmory,141,E Armory Ave,east,west,0
+sixtharmory,Harding Band Building,91,S 6th Str,south,north,0
+sixtharmory,Main Library,117,E Armory Ave,east,west,0
+Main Library,wrightarmory,11,E Armory Ave,east,west,0
+wrightarmory,Gregory Hall,15,S Wright Str,north,south,0
+Gregory Hall,Lincoln Hall,93,S Wright Str,north,,1
+Lincoln Hall,wrightchalmers,40,S Wright Str,north,,1
+wrightchalmers,YMCA,37,E Chalmers Str,west,,1
+wrightchalmers,English Building,73,S Wright Str,north,south,0
+YMCA,sixthchalmers,90,E Chalmers Str,west,,1
+sixthchalmers,sixarmory,156,S 6th Str,south,,1
+sixthchalmers,fifthchalmers,141,E Chalmers Str,west,east,0
+fifthchalmers,forthchalmers,126,E Chalmers Str,west,east,0
+forthchalmers,Police Training Institution,46,S 4th Str,south,north,0
+forthchalmers,forthdaniel,125,S 4th Str,north,south,0
+forthdaniel,fifthdaniel,125,E Daniel Str,east,west,0
+fifthdaniel,Sherman Hall,96,S 5th Str,south,north,0
+Sherman Hall,fifthchalmers,29,S 5th Str,south,north,0
+fifthdaniel,School of Information Science,32,E Daniel Str,east,west,0
+School of Information Science,sixthdaniel,108,E Daniel Str,east,west,0
+sixthdaniel,Speech and Hearing Clinic,37,S 6th Str,south,,1
+Speech and Hearing Clinic,sixthchalmers,88,S 6th Str,south,,1
+sixthdaniel,Psychology Building,25,E Daniel Str,east,,1
+Psychology Building,Illini Union Bookstore,223,E Daniel Str,east,,1
+Illini Union Bookstore,wrightdaniel,26,E Daniel Str,east,,1
+wrightdaniel,English Building,63,S Wright Str,south,north,0
+wrightdaniel,Henry Administration Building,50,S Wright Str,north,south,0
+Henry Administration Building,wrightjohn,72,S Wright Str,north,south,0
+wrightjohn,Altgeld Hall,10,S Wright Str,north,south,0
+wrightjohn,sixthjohn,126,E John Str,west,,1
+Altgeld Hall,Department of Statistics,31,S Wright Str,north,south,0
+sixthjohn,sixthdaniel,120,S 6th Str,south,,1
